@@ -2,7 +2,7 @@ import React from "react";
 import { Form } from "react-bootstrap";
 import SearchIcon from "../assets/search.svg";
 import ContactCard from "./ContactCard";
-import data from "../../data";
+import data from "../data.json";
 
 const ContactList = () => {
   return (
