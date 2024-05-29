@@ -3,29 +3,29 @@
     {
       "name": "David Sarpong",
       "phone_number": "+2330944747494",
-      "image_url": "https://i.postimg.cc/3NVzV78Z/Ellipse-1.png"
+      "image_url": "https://i.postimg.cc/2yYVNp0n/2.png"
     },
     {
       "name": "Abigail Nartey",
       "phone_number": "+2330944747494",
-      "image_url": "https://i.postimg.cc/3NVzV78Z/Ellipse-1.png"
+      "image_url": "https://i.postimg.cc/YqbjZsYm/4.png"
     },
     {
       "name": "John Doe",
       "phone_number": "+1234567890",
-      "image_url": "https://i.postimg.cc/3NVzV78Z/Ellipse-1.png"
+      "image_url": "https://i.postimg.cc/2yYVNp0n/2.png"
     }
   ],
   "contacts": [
     {
       "name": "Aohn Doe",
       "phone_number": "+1234567890",
-      "image_url": "./src/assets/3.png"
+      "image_url": "https://i.postimg.cc/2yYVNp0n/2.png"
     },
     {
       "name": "Bane Smith",
       "phone_number": "+0987654321",
-      "image_url": "./src/assets/4.png"
+      "image_url": "https://i.postimg.cc/YqbjZsYm/4.png"
     },
     {
       "name": "Cmily Johnson",
@@ -35,7 +35,7 @@
     {
       "name": "Dichael Brown",
       "phone_number": "+1222333444",
-      "image_url": "./src/assets/6.png"
+      "image_url": "https://i.postimg.cc/2yYVNp0n/2.png"
     }
   ]
 }
