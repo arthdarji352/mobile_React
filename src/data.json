@@ -3,18 +3,17 @@
     {
       "name": "David Sarpong",
       "phone_number": "+2330944747494",
-      "image_url": "./src/assets/first.png",
-      "email": ""
+      "image_url": "https://ibb.co/Fhnn2Dh"
     },
     {
       "name": "Abigail Nartey",
       "phone_number": "+2330944747494",
-      "image_url": "./src/assets/5.png"
+      "image_url": "https://ibb.co/Fhnn2Dh"
     },
     {
       "name": "John Doe",
       "phone_number": "+1234567890",
-      "image_url": "./src/assets/2.png"
+      "image_url": "https://ibb.co/Fhnn2Dh"
     }
   ],
   "contacts": [
