@@ -1,0 +1,42 @@
+{
+  "recent_contacts": [
+    {
+      "name": "David Sarpong",
+      "phone_number": "+2330944747494",
+      "image_url": "./src/assets/first.png",
+      "email": ""
+    },
+    {
+      "name": "Abigail Nartey",
+      "phone_number": "+2330944747494",
+      "image_url": "./src/assets/5.png"
+    },
+    {
+      "name": "John Doe",
+      "phone_number": "+1234567890",
+      "image_url": "./src/assets/2.png"
+    }
+  ],
+  "contacts": [
+    {
+      "name": "Aohn Doe",
+      "phone_number": "+1234567890",
+      "image_url": "./src/assets/3.png"
+    },
+    {
+      "name": "Bane Smith",
+      "phone_number": "+0987654321",
+      "image_url": "./src/assets/4.png"
+    },
+    {
+      "name": "Cmily Johnson",
+      "phone_number": "+1122334455",
+      "image_url": "./src/assets/5.png"
+    },
+    {
+      "name": "Dichael Brown",
+      "phone_number": "+1222333444",
+      "image_url": "./src/assets/6.png"
+    }
+  ]
+}

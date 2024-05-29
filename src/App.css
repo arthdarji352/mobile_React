@@ -1,0 +1,35 @@
+.contact-conaier {
+  width: 414px;
+  margin: 0px auto;
+  padding: 38px 24px;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.text-gray-placeholder {
+  color: #b7b7b7;
+}
+.text-gray {
+  color: #b6b6b6;
+}
+
+input::placeholder {
+  color: #b7b7b7 !important;
+  font-size: 16px;
+}
+
+.contactSubHeading {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.contactDetails {
+  background-color: #9aadbe33;
+}
+
+.contactBorder {
+  border-top: 2px solid #b6b6b6;
+}
